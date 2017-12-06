@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AuraDefinitionBundle xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>34.0</apiVersion>
+    <description>Login History is a Lightning Component that allows a Salesforce administrator to see the latest set of users that tried to access their Salesforce.com org and any eventual error message.</description>
+</AuraDefinitionBundle>
